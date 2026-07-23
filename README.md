@@ -46,7 +46,7 @@ server.example.com
 or
 
 ```text
-saserver.smarty.kdns.fr
+serve.example.com
 ```
 
 Create an **A Record** in your DNS provider.
@@ -113,7 +113,7 @@ Enter the domain that points to your VPS.
 Example:
 
 ```text
-saserver.smarty.kdns.fr
+serve.example.com
 ```
 
 ## Email
@@ -156,7 +156,7 @@ The installer displays:
 Example output:
 
 ```text
-Server   : saserver.smarty.kdns.fr
+Server   : serve.example.com
 Port     : 53
 Password : MyStrongPassword123
 
